@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://komoiyo.github.io/sitemap.xml
